@@ -443,7 +443,7 @@ Each dashboard provides different functionalities.
 ## 👨‍🎓 Student Registration
 
 
-![Student Registration](Screen Shots/Student-RegistrationPage.png)
+![Student Registration](ScreenShots/Student-RegistrationPage.png)
 
 
 ---
