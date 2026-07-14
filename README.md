@@ -434,17 +434,17 @@ Each dashboard provides different functionalities.
 
 ## 🏠 Landing Page
 
-```md
+
 ![Landing Page](ScreenShots/LandingPage.png)
-```
+
 
 ---
 
 ## 👨‍🎓 Student Registration
 
-```md
+
 ![Student Registration](Screen Shots/Student-RegistrationPage.png)
-```
+
 
 ---
 
