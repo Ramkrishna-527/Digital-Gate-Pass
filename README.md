@@ -450,81 +450,80 @@ Each dashboard provides different functionalities.
 
 ## 🧑 Visitor Registration
 
-```md
-![Visitor Registration](Screen Shots/Visitor-RegistrationPage.png)
-```
+![Visitor Registration](ScreenShots/Visitor-RegistrationPage.png)
+
 
 ---
 
 ## 👨‍🏫 HOD Registration
 
-```md
-![HOD Registration](Screen Shots/HOD-RegistrationPage.png)
-```
+
+![HOD Registration](ScreenShots/HOD-RegistrationPage.png)
+
 
 ---
 
 ## 👨‍🎓 Student Dashboard
 
-```md
-![Student Dashboard](Screen Shots/Student-LandingPage.png)
-```
+
+![Student Dashboard](ScreenShots/Student-LandingPage.png)
+
 
 ---
 
 ## 👨‍🏫 HOD Dashboard
 
-```md
-![HOD Dashboard](Screen Shots/HOD-LandingPage.png)
-```
+
+![HOD Dashboard](ScreenShots/HOD-LandingPage.png)
+
 
 ---
 
 ## 🛡 Admin Dashboard
 
-```md
-![Admin Dashboard](Screen Shots/Admin-LandingPage.png)
-```
+
+![Admin Dashboard](ScreenShots/Admin-LandingPage.png)
+
 
 ---
 
 ## 🚪 Gatekeeper Dashboard
 
-```md
-![Gatekeeper Dashboard](Screen Shots/GateKeeper-LandingPage.png)
-```
+
+![Gatekeeper Dashboard](ScreenShots/GateKeeper-LandingPage.png)
+
 
 ---
 
 ## 👤 User Dashboard
 
-```md
-![User Dashboard](Screen Shots/User-LandingPage.png)
-```
+
+![User Dashboard](ScreenShots/User-LandingPage.png)
+
 
 ---
 
 ## 📱 Generated QR Code
 
-```md
-![Generated QR](Screen Shots/Genatrated-QRPage.png)
-```
+
+![Generated QR](ScreenShots/Genatrated-QRPage.png)
+
 
 ---
 
 ## 📷 QR Code Scanner
 
-```md
-![Scanning Page](Screen Shots/ScanningPage.png)
-```
+
+![Scanning Page](ScreenShots/ScanningPage.png)
+
 
 ---
 
 ## ✅ QR Verification Result
 
-```md
-![Scanning Result](Screen Shots/Scanning-ResultsPage.png)
-```
+
+![Scanning Result](ScreenShots/Scanning-ResultsPage.png)
+
 
 ---
 
