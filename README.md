@@ -435,7 +435,7 @@ Each dashboard provides different functionalities.
 ## 🏠 Landing Page
 
 ```md
-![Landing Page](ScreenShots/LandingPage.png)
+![Landing Page](Screen Shots/LandingPage.png)
 ```
 
 ---
@@ -443,7 +443,7 @@ Each dashboard provides different functionalities.
 ## 👨‍🎓 Student Registration
 
 ```md
-![Student Registration](ScreenShots/Student-RegistrationPage.png)
+![Student Registration](Screen Shots/Student-RegistrationPage.png)
 ```
 
 ---
@@ -451,7 +451,7 @@ Each dashboard provides different functionalities.
 ## 🧑 Visitor Registration
 
 ```md
-![Visitor Registration](ScreenShots/Visitor-RegistrationPage.png)
+![Visitor Registration](Screen Shots/Visitor-RegistrationPage.png)
 ```
 
 ---
@@ -459,7 +459,7 @@ Each dashboard provides different functionalities.
 ## 👨‍🏫 HOD Registration
 
 ```md
-![HOD Registration](ScreenShots/HOD-RegistrationPage.png)
+![HOD Registration](Screen Shots/HOD-RegistrationPage.png)
 ```
 
 ---
@@ -467,7 +467,7 @@ Each dashboard provides different functionalities.
 ## 👨‍🎓 Student Dashboard
 
 ```md
-![Student Dashboard](ScreenShots/Student-LandingPage.png)
+![Student Dashboard](Screen Shots/Student-LandingPage.png)
 ```
 
 ---
@@ -475,7 +475,7 @@ Each dashboard provides different functionalities.
 ## 👨‍🏫 HOD Dashboard
 
 ```md
-![HOD Dashboard](ScreenShots/HOD-LandingPage.png)
+![HOD Dashboard](Screen Shots/HOD-LandingPage.png)
 ```
 
 ---
@@ -483,7 +483,7 @@ Each dashboard provides different functionalities.
 ## 🛡 Admin Dashboard
 
 ```md
-![Admin Dashboard](ScreenShots/Admin-LandingPage.png)
+![Admin Dashboard](Screen Shots/Admin-LandingPage.png)
 ```
 
 ---
@@ -491,7 +491,7 @@ Each dashboard provides different functionalities.
 ## 🚪 Gatekeeper Dashboard
 
 ```md
-![Gatekeeper Dashboard](ScreenShots/GateKeeper-LandingPage.png)
+![Gatekeeper Dashboard](Screen Shots/GateKeeper-LandingPage.png)
 ```
 
 ---
@@ -499,7 +499,7 @@ Each dashboard provides different functionalities.
 ## 👤 User Dashboard
 
 ```md
-![User Dashboard](ScreenShots/User-LandingPage.png)
+![User Dashboard](Screen Shots/User-LandingPage.png)
 ```
 
 ---
@@ -507,7 +507,7 @@ Each dashboard provides different functionalities.
 ## 📱 Generated QR Code
 
 ```md
-![Generated QR](ScreenShots/Genatrated-QRPage.png)
+![Generated QR](Screen Shots/Genatrated-QRPage.png)
 ```
 
 ---
@@ -515,7 +515,7 @@ Each dashboard provides different functionalities.
 ## 📷 QR Code Scanner
 
 ```md
-![Scanning Page](ScreenShots/ScanningPage.png)
+![Scanning Page](Screen Shots/ScanningPage.png)
 ```
 
 ---
@@ -523,7 +523,7 @@ Each dashboard provides different functionalities.
 ## ✅ QR Verification Result
 
 ```md
-![Scanning Result](ScreenShots/Scanning-ResultsPage.png)
+![Scanning Result](Screen Shots/Scanning-ResultsPage.png)
 ```
 
 ---
