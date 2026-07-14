@@ -435,7 +435,7 @@ Each dashboard provides different functionalities.
 ## 🏠 Landing Page
 
 ```md
-![Landing Page](Screen Shots/LandingPage.png)
+![Landing Page](ScreenShots/LandingPage.png)
 ```
 
 ---
